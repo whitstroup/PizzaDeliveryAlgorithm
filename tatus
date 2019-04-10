@@ -1,0 +1,44 @@
+[1mdiff --git a/PizzaDeliveryAlgorithm b/PizzaDeliveryAlgorithm[m
+[1mindex 7fc8540..7c98275 100644[m
+[1m--- a/PizzaDeliveryAlgorithm[m
+[1m+++ b/PizzaDeliveryAlgorithm[m
+[36m@@ -1,11 +1,29 @@[m
+[31m-1. Decide what kind of pizza you want[m
+[31m-2. Place order[m
+[31m-    a.If they answer place order[m
+[31m-    B.If they don't order go back to #2[m
+[31m-3. If paying over the phone, give cc information. If not, then hang up.[m
+[31m-4. Wait[m
+[31m-5.If paying in person, pay the deslivery person. If not, do nothing.[m
+[31m-6.Take pizza[m
+[31m-7.eat pizza[m
+[31m-8. enjoy[m
+[32m+[m[32m1. Decide what kind of pizza you want.[m
+[32m+[m[32m2. Decide whether you will place the order online, over the phone, or at the restaurant.[m
+[32m+[m[32m3. If you place your order online:[m
+[32m+[m	[32mA. Go to the website.[m
+[32m+[m	[32mB. Choose the pizza from the online menu.[m
+[32m+[m	[32mC. Customize your order.[m
+[32m+[m	[32mD. If paying online, give CC information.[m[41m [m
+[32m+[m	[32mE. Place your order.[m
+[32m+[m[32m4. If you place your order over the phone:[m
+[32m+[m[32m    A. If they answer place order[m
+[32m+[m[32m    B. If they don't order go back to #2[m
+[32m+[m[32m    C. If paying over the phone, give cc information. If not, then hang up.[m
+[32m+[m[32m5. If ordering in person:[m
+[32m+[m	[32mA. Drive to the store.[m
+[32m+[m	[32mB. Place your order.[m[41m [m
+[32m+[m	[32mC. Pay.[m
+[32m+[m[32m6. If you wish to join the rewards program:[m
+[32m+[m	[32mA. Begin to create account with the restaurant.[m
+[32m+[m	[32mB. Give restaurant your email.[m
+[32m+[m	[32mC. Give restaurant your name.[m
+[32m+[m	[32mD. If you wish to save your payment informaton, give them your CC informaion again.[m
+[32m+[m	[32mE. Check your email to confirm the account.[m
+[32m+[m[32m7. Wait.[m
+[32m+[m[32m8. If the pizza is delivered and if you're paying in person, pay the delivery person. If you already paid, do nothing.[m
+[32m+[m[32m6. Take pizza.[m
+[32m+[m[32m7. If you ordered takeout, leave the restaurant.[m
+[32m+[m[32m8. Eat pizza.[m
+[32m+[m[32m9. Enjoy![m
+ [m
